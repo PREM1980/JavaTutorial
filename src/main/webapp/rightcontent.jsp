@@ -1,0 +1,1 @@
+<div id="rightcontent">rightcontent</div>
