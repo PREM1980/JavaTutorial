@@ -55,14 +55,20 @@
 				<a href="javastringtime.jsp">How to convert Java String to Timestamp?</a><br><br>
 				<a href="javatimestring.jsp">How to convert Java Timestamp to String?</a>
 				<h1>Collections</h1>
-
+				<a href="sortarray.jsp"><br> How to sort a Java Array?</a><br>
+				<a href="reversearray.jsp"><br> How to reverse a Java Array?</a><br>
+				<a href="listsortprim.jsp"><br> How to SORT a LIST of primitives?</a><br>
+				<a href="listrevrprim.jsp"><br> How to REVERSE a LIST of primitives?</a><br>
+				<a href="listtoarray.jsp"><br> How to convert a LIST TO ARRAY?</a><br>
 				<a href="arraylinked.jsp"><br> What is the difference between Linked List vs ArrayList?</a><br>
 				<br> How HashMap works?<br>
 				<br><a href="equalshash.jsp">Equals and hashcode method</a><br>
 				<br> <a href="hashvalue.jsp"> How String hash value is computed in Java? </a><br><br>
 				<a href="hashmaptable.jsp">What is the difference between HashMap and HashTable</a><br><br>
 				<a href="maptolist.jsp">How to convert MAP TO LIST?</a>
-
+				
+				<h1>Exception</h1>
+				<br><a href="classcast.jsp">ClassCastException</a><br>
 
 
 			</div>

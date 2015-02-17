@@ -3,5 +3,7 @@
  */
 
 $(document).ready(function(){
-	$("pre.htmlCode").snippet("html",{style:'acid'});
+	//alert('test.js')
+	//$("pre.htmlCode").snippet("XML",{style:"random"})
+	$("pre.htmlCode").snippet("xml",{style:"dull",showNum:true}) 
 })

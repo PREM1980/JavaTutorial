@@ -26,28 +26,18 @@
 			<!-- <div id="leftcontent">leftcontent</div> -->
 			<%@ include file="../leftcontent.jsp"%>
 			<div id="maincontent">
-			<h2>Simple Examples</h2>
-				<br> <a href="restfileupload.jsp">Simple REST Service using JAX-RS</a> 
-				<br> <br> <a href="restfileupload.jsp">Upload files(text,pdf,excel,any file) using REST WebServices - Jersey</a> <br>
-				<br>
-				<a href="consumejsonproducejson.jsp">REST Service - Consume JSON / Produce JSON</a>
-				<br>
-				<br>
-					<a href='formparamdiff.jsp'>Difference between application/x-www-form-urlencoded and multipart/form-data</a>
-				<br>
-				<br>
-				<b><h1>Errors:-</h1></b><br>
-				<a href="jerseystreamclosed.jsp">Jersey Rest Service : Stream Already Closed Error</a><br><br>
-				
-				Jersey + Json media type application/json was not found - Please use the maven dependencies as mentioned
-				in this <a href="restfileupload.jsp">link</a>  								
+				<br> <br> <a href="installtomcat.jsp">How to install Apache Tomcat on Eclipse?</a> <br>
+
 			</div>
 
-			<div id="rightcontent">rightcontent</div>
-			<!-- <div id="commentcontent">commentcontent</div> -->
-		</div>
-		<!-- <div id="footer">footer</div> -->
+				<%@ include file="../rightcontent.jsp"%>
+	<!-- <div id="rightcontent">rightcontent</div>-->
+	<!-- <div id="commentcontent">commentcontent</div> -->
 	</div>
+	<!-- <div id="footer">footer</div> -->
+	<div style="clear: both;"></div>
+	</div>
+	<%@ include file="../discus.jsp"%>
 	<br>
 	<br>
 	<br>
